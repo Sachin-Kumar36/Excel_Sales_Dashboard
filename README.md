@@ -54,7 +54,8 @@ The dashboard includes interactive filters for:
 
 ## 📷 Dashboard Preview
 
-https://1drv.ms/i/c/167395BDDC30E926/IQBvXPTO3OItQa7ll9RMyjmwAVOYGmW_CrGUH36Hymf4F2g?e=5Avyl0<img width="1242" height="643" alt="excel sales dashboard" src="https://github.com/user-attachments/assets/d68b05f5-506d-47af-b1b9-37e81c6ba10d" />
+<img width="1242" height="643" alt="excel sales dashboard" src="https://github.com/user-attachments/assets/8e57447c-bc29-435c-aa9a-009808277acc" />
+
 
 
 ## 📚 Skills Demonstrated
